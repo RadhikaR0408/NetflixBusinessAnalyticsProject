@@ -43,6 +43,12 @@ Tools Used
   The data was taken from kaggle
   https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+=======================================================================================================================================
+
+**Author**: Radhika
+**Project Type**: Data Visualization
+**Status**: Completed
+
 
 
 
